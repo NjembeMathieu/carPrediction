@@ -1,0 +1,15 @@
+# Core ML libraries (tested compatible versions)
+scikit-learn==1.2.2
+pandas==1.5.3
+numpy==1.24.3
+
+# Web framework
+flask==2.3.3
+flask-cors==4.0.0
+
+# WSGI server for production
+gunicorn==21.2.0
+
+# Specific Python version (optional but recommended)
+python-dateutil==2.8.2
+pytz==2023.3
